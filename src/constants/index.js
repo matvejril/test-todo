@@ -1,0 +1,11 @@
+const constants = {
+    ADD_TODO: "ADD_TODO",
+    ADD_TO_LOCAL: "ADD_TO_LOCAL",
+    FILTER_TODO: "FILTER_TODO",
+    PERFORMANCE_TODO: "PERFORMANCE_TODO",
+    REMOVE_TODO: "REMOVE_TODO",
+    SELECT_TODO: "SELECT_TODO",
+    UPDATE_TODO: "UPDATE_TODO"
+};
+
+export default constants;

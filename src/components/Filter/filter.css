@@ -1,0 +1,8 @@
+.filter {
+    padding: 0;
+    list-style-type: none;
+}
+.filter__select-importance {
+     margin: 10px 0 10px 4px;
+ }
+
